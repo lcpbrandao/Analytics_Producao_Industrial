@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LaisllaBrandão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laislla-pinheiro-brandao/)](https://www.linkedin.com/in/laislla-pinheiro-brandao/)
 
-![producao_industrial](producao_industrial.jpg)
+![producao_industrial](producao_industrial.png)
 # Projeto de Analytics para Produção Industrial
 
 * Projeto para a etapa de seleção da **Residência Tecnológica em Ciência de Dados e Analytics para o setor Automotivo**.
